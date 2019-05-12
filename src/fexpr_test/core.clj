@@ -7,7 +7,7 @@
 ;; expressions are actors! they receive messages for eval-ing, matching, binding etc.
 
 ;; =============================================================================
-;; ACTOR EMULATION LAYER
+;; ACTOR EMULATION LAYER (jump to line 125 for the actual article content)
 ;; =============================================================================
 
 ;; dirty but useful for our approximation
